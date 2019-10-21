@@ -1,0 +1,40 @@
+{
+    "siteTitle": "My SPA",
+    "mainPage": "main",
+    "pages": {
+        "main": {
+            "title": "Главная",
+            "menu": "main",
+            "inSitemap": true,
+            "updated": "2019-10-15"
+        },
+        "about": {
+            "title": "О проекте",
+            "menu": "about"
+        },
+        "blog": {
+            "title": "Блог",
+            "menu": "blog",
+            "inSitemap": true,
+            "updated": "2019-10-15"
+        },
+        "simpple": {
+            "title": "Проект Simpple",
+            "menu": "simpple",
+            "inSitemap": true,
+            "updated": "2019-10-15"
+        },
+        "contacts": {
+            "title": "Контакты",
+            "menu": "contacts"
+        },
+       
+        "mysql": {
+            "title": "База данных Mysql",
+            "menu": "blog",
+            "inSitemap": true,
+            "updated": "2019-10-15"
+        },
+        
+    }
+}
